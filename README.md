@@ -10,6 +10,6 @@ Inception 모델을 이용해 Google로 검색한 과일 이미지가 어느 과
 * 19.01.12 - 19.03.11
 
 ### ⚙️ 개발 환경
-- **Language** : Python3, Java 8
-- **Framework** : tensorflow
+- **Language** : Python, Java
+- **Framework** : Tensorflow
 - **Database** : OracleDB
