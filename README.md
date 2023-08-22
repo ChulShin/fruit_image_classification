@@ -1,4 +1,4 @@
-# myBoard
+# Fruit image classification
 과일 이미지 품종 분류(image classification) 프로젝트
 
 
