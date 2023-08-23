@@ -15,5 +15,4 @@ Inception 모델을 이용해 Google검색엔진으로 검색한 과일 이미�
 - **Database** : MySQL
 
 ![그림1](https://github.com/ChulShin/fruit_image_classification/assets/45473374/f3b17bf1-369e-4188-9792-a65e73f084a6)
-![그림2](https://github.com/ChulShin/fruit_image_classification/assets/45473374/79b5ccdd-0b56-4ae9-8b40-309653230321)
-![그림3](https://github.com/ChulShin/fruit_image_classification/assets/45473374/3137f1fb-ffce-4438-b1dc-92dc746b6ccf)
+![그림3](https://github.com/ChulShin/fruit_image_classification/assets/45473374/0c7d6a49-e2d2-453b-b8ae-2d298192a351)
